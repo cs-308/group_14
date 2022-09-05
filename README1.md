@@ -1,1 +1,0 @@
-This program consists of a factorial calculating program, which says “hello” before reporting the factorial value.
