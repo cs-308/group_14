@@ -5,6 +5,7 @@ int main(){
     print_hello();
     cout<<endl;
     cout<<"The factorial of 5 is "<<factorial(5)<<endl;
-    cout<<"GCD of 6, 36 is "<< gcd(6, 36)<<endl;
+    cout<<"GCD of (6, 36) is "<< gcd(6, 36)<<endl;
+    cout<<"GCD of (6, 36) using recursive function is "<< gcdRecursive(6, 36)<<endl;
     return 0;
 }
